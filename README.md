@@ -1,2 +1,2 @@
 # DYPlayer
-DY-SV17F模块驱动
+DY-SV17F模块的MicroPython驱动
